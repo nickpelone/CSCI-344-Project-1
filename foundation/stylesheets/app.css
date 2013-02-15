@@ -16,9 +16,35 @@
 
 
 /* -----------------------------------------
-   Page Name 1
+   index pages
 ----------------------------------------- */
-
+body{
+  font-family: 'Roboto Condensed', sans-serif;
+}
+h1{
+  font-family: 'Roboto Condensed', sans-serif;
+}
+h2{
+  font-family: 'Roboto Condensed', sans-serif;
+}
+h3{
+  font-family: 'Roboto Condensed', sans-serif;
+}
+h4{
+  font-family: 'Roboto Condensed', sans-serif;
+}
+h5{
+  font-family: 'Roboto', sans-serif; 
+}
+h6{
+  font-family: 'Roboto', sans-serif; 
+}
+#content_container{
+  padding-top:60px;
+}
+.padme{
+  padding-top:40px;
+}
 
 
 
