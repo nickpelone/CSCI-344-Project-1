@@ -22,6 +22,11 @@ h6{
 .padme{
   padding-top:40px;
 }
+.scaleme10{
+  height:10%;
+  width:40%;
+}
+
 /**begin inclusion of "Sticky Footer for Twitter Bootstrap" by Martin Bean and Ryan Fait
     http://twitter.github.com/bootstrap/examples/sticky-footer.html **/
  html,
